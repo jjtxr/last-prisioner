@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 15f7eab17c3a8994888f5e49140f93ad
+timeCreated: 1491899881
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Xander
+  fontNames:
+  - Kingthings Xander
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

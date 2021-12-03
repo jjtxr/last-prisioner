@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastPrisionerStanding", "LastPrisionerStanding.csproj", "{5A013AA7-265E-DCC4-3126-4B1123FE1340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastPrisionerStanding.Editor", "LastPrisionerStanding.Editor.csproj", "{A79FCA3B-B8B5-921A-6814-3F3D067B8BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A013AA7-265E-DCC4-3126-4B1123FE1340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A013AA7-265E-DCC4-3126-4B1123FE1340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A013AA7-265E-DCC4-3126-4B1123FE1340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A013AA7-265E-DCC4-3126-4B1123FE1340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79FCA3B-B8B5-921A-6814-3F3D067B8BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79FCA3B-B8B5-921A-6814-3F3D067B8BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79FCA3B-B8B5-921A-6814-3F3D067B8BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79FCA3B-B8B5-921A-6814-3F3D067B8BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
